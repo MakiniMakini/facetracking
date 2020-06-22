@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(226, 222, 210);
+    margin: 0;
+    padding: 0;
+    width: 100vh;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+canvas{
+    position: absolute;
+}
